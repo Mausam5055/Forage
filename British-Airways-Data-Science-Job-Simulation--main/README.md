@@ -28,7 +28,3 @@ Before implementing SMOTE (Synthetic Minority Over-sampling Technique) to addres
 In summary, the model's strong performance in negative class identification did not translate into overall robustness and reliability across both classes, highlighting its lack of generalizability in accurately predicting positive outcomes.
 
 ---
-
-## Certificate
-[Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_QxKzXzWxhzdZTfESN_1718478074841_completion_certificate.pdf)
-
