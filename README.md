@@ -24,10 +24,10 @@ Welcome to the central repository for my Forage Virtual Internships and Job Simu
 
 | Company | Job Simulation | Focus Area | Links / Certificates |
 |---------|----------------|------------|----------------------|
-| **British Airways** | Data Science Job Simulation | Web Scraping, Sentiment Analysis, Predictive Modeling | [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_QxKzXzWxhzdZTfESN_1718478074841_completion_certificate.pdf) <br> [Folder](./British-Airways-Data-Science-Job-Simulation--main) |
-| **Deloitte** | Data Analytics Virtual Internship | Data Analytics, Data Visualization | [Folder](./Data-Analytics-Deloitte-Forage-Internship-Solution-main) |
-| **JPMorgan Chase & Co.** | Technology Virtual Experience | Financial Data Visualization, React | [Folder](./JP-Morgan-Virtual-Experience-master) |
-| **Walmart USA** | Advanced Software Engineering | Software Architecture, Data Structures | [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Walmart%20USA/oX6f9BbCL9kJDJzfg_Walmart%20USA_jFND42tPDkhuTKLhT_1687808690527_completion_certificate.pdf) <br> [Folder](./Walmart-USA-Advanced-Software-Engineering-main) |
+| **British Airways** | Data Science Job Simulation | Web Scraping, Sentiment Analysis, Predictive Modeling | [View Certificate](https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_6a04ca0641d85b5f5d7ab59c_1778701602574_completion_certificate.pdf) <br> [Folder](./British-Airways-Data-Science-Job-Simulation--main) |
+| **Deloitte** | Data Analytics Virtual Internship | Data Analytics, Data Visualization | [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a04ca0641d85b5f5d7ab59c_1778699811119_completion_certificate.pdf) <br> [Folder](./Data-Analytics-Deloitte-Forage-Internship-Solution-main) |
+| **JPMorgan Chase & Co.** | Technology Virtual Experience | Financial Data Visualization, React | [View Certificate](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_6a04ca0641d85b5f5d7ab59c_1778702972163_completion_certificate.pdf) <br> [Folder](./JP-Morgan-Virtual-Experience-master) |
+| **Walmart USA** | Advanced Software Engineering | Software Architecture, Data Structures | [View Certificate](https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6a04ca0641d85b5f5d7ab59c_1778702208576_completion_certificate.pdf) <br> [Folder](./Walmart-USA-Advanced-Software-Engineering-main) |
 
 ---
 
